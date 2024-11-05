@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -53,7 +54,7 @@ namespace variables
             */
 
 
-            
+            /*
              //Loan Calculator
             Console.WriteLine("Loan Calculator\n");
             Console.WriteLine("##########\n");
@@ -68,16 +69,65 @@ namespace variables
             string months = Console.ReadLine();
 
 
-
-
             int monthlyPayment = 1000;
 
             Console.WriteLine("Your Monthly Payment is : " + monthlyPayment);
             Console.ReadKey();
-            
+            */
+
+            /*
+            Console.WriteLine("This is the first Line.");
+            Console.WriteLine("This is the second Line.");
+            */
+
+            /*
+            int firstName;
+            //firstName = Convert.ToInt32( "12");
+            firstName = 12;
+            Console.WriteLine(firstName);
+            */
+
+            /*
+            //Currency Calculator
+            double myUSD = 100;
+            double myCAD = 100;
+            double conversion = 0.78;
+
+            Console.WriteLine("\t\t\tCurrency Convertor\n");
+            Console.WriteLine("Please input USD amount");
+            myUSD = Convert.ToDouble(Console.ReadLine());
 
 
+            myCAD =  myUSD/conversion;
+            //Console.WriteLine(myUSD + " USD Converted into " + Math.Round(myCAD,4 )+ " CAD");
+            Console.WriteLine($"{myUSD} USD Converted into {Math.Round(myCAD, 4)} CAD");
+            */
+
+
+            //Age Calculator
+            DateTime todayDate = DateTime.Now;
+            int currentYear = todayDate.Year;
+
+            Console.WriteLine("\t\tAge Convertor\n");
+            Console.WriteLine("Please input your DOB:");
+            DateTime myDOB = Convert.ToDateTime(Console.ReadLine());
+            int myDOBYear = myDOB.Year;
+
+
+            int myAge = currentYear - myDOBYear;
+            Console.WriteLine($"Your are {myAge} year old");
+
+
+
+
+
+
+
+            Console.ReadKey();
 
         }
+
+
+        
     }
 }

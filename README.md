@@ -18,3 +18,10 @@
 6. [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 7. [.NET Developer Community](https://dotnet.microsoft.com/en-us/platform/community)
 8. [.NET Videos](https://dotnet.microsoft.com/en-us/learn/videos) 
+
+### Running a C# console app in VS Code 
+
+>mkdir hello-world
+>cd hello-world
+>dotnet new console
+>dotnet run

@@ -4,3 +4,32 @@
 4. int fahrenheit = 94;
 decimal celsius = (fahrenheit - 32m) * (5m / 9m);
 Console.WriteLine("The temperature is " + celsius + " Celsius.");
+5. Create a class called LibraryBook that represents a book in a library system. The class should have the following properties and methods:
+
+Properties:
+
+Title (string): The title of the book.
+Author (string): The author of the book.
+ISBN (string): The ISBN of the book.
+IsCheckedOut (bool): Tracks whether the book is currently checked out.
+Constructor: Create a constructor that initializes the title, author, and ISBN. By default, set IsCheckedOut to false.
+
+Methods:
+
+CheckOut(): If the book is not already checked out, set IsCheckedOut to true and display a message indicating the book has been checked out. If the book is already checked out, display a message stating it is not available.
+ReturnBook(): If the book is currently checked out, set IsCheckedOut to false and display a message indicating the book has been returned. If the book is already in the library, display a message stating it is already available.
+DisplayBookInfo(): Print the book information, including title, author, ISBN, and whether it is currently available.
+Usage Example:
+
+Create an instance of LibraryBook in a Main method with a sample title, author, and ISBN.
+Call DisplayBookInfo() to display the book details.
+Call CheckOut() and ReturnBook() to test the book's status and re-display the information.
+
+Requirements:
+1. Implement the LibraryBook class with the required properties, constructor, and methods.
+2. Ensure that the CheckOut and ReturnBook methods update the IsCheckedOut status correctly.
+3. Test your program by creating a sample book in the Main method and performing a sequence of actions.
+
+Extra Challenge: Add validation in the CheckOut and ReturnBook methods to ensure a book cannot be checked out or returned if it is in an inappropriate state.
+
+

@@ -32,7 +32,7 @@ Requirements:
 
 Extra Challenge: Add validation in the CheckOut and ReturnBook methods to ensure a book cannot be checked out or returned if it is in an inappropriate state.
 
-6. Final Projects [link](https://www.codewithfaraz.com/csharp-projects?page=1)
-   Check the projects on the following [link]((https://www.codewithfaraz.com/csharp-projects?page=1)) and pick any two project and create them.
-   You can also pick any other project and get is assigned for submission.
+6. Final Projects [link](https://www.codewithfaraz.com/csharp-projects?page=1).
+   >Check the projects on the following [link]((https://www.codewithfaraz.com/csharp-projects?page=1)) and pick any two project and create them.
+   >You can also pick any other project and get is assigned for submission.
 

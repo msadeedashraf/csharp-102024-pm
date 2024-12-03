@@ -36,3 +36,5 @@ Extra Challenge: Add validation in the CheckOut and ReturnBook methods to ensure
    >Check the projects on the following [link](https://www.codewithfaraz.com/csharp-projects?page=1) and pick any two project and create them.
    >You can also pick any other project and get is assigned for submission.
 
+
+7. Book Page 300. In the following exercise, you’ll define a simple class hierarchy for modeling different types of vehicles. You’ll define a base class named Vehicle and derived classes named Airplane and Car. You will define common methods named StartEngine and StopEngine in the Vehicle class, and you’ll add some methods to both of the derived classes that are specific to those classes. Finally, you’ll add a virtual method named Drive to the Vehicle class and override the default implementation of this method in both of the derived classes.

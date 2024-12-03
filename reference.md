@@ -1,3 +1,9 @@
+### Online C# Compilers
+
+[One Compiler](https://onecompiler.com/csharp)
+[Next Leap](https://nextleap.app/online-compiler/csharp-programming)
+[.NET Fiddle](https://dotnetfiddle.net/)
+
 ### Inheritance
 Inheritance is a fundamental concept in object-oriented programming (OOP) that allows a class (child or derived class) to inherit the fields, methods, and properties of another class (parent or base class). This helps in code reuse and implementing polymorphism.
 
@@ -21,3 +27,21 @@ Expression Lambdas
 [Lambda](https://c-sharpcorner.com/UploadFile/bd6c67/lambda-expressions-in-C-Sharp/)
 
 [Lambda](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-practice-d57294581a30)
+
+
+### Collections in C#
+
+Collections in C# are specialized data structures used to store, manage, and manipulate groups of objects. Unlike arrays, collections are dynamic in size and provide more flexibility and functionality, such as sorting, searching, and managing relationships between objects.
+
+The System.Collections namespace in C# provides various types of collections, such as:
+
+List<T>: A dynamic array.
+Dictionary<TKey, TValue>: A collection of key-value pairs.
+Queue<T>: A first-in, first-out (FIFO) collection.
+Stack<T>: A last-in, first-out (LIFO) collection.
+HashSet<T>: A collection of unique elements.
+
+[Generics](https://www.geeksforgeeks.org/c-sharp-generics-introduction/)
+[Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
+[Collections](https://www.c-sharpcorner.com/UploadFile/736bf5/collection-in-C-Sharp/)
+[Collections](https://www.geeksforgeeks.org/collections-in-c-sharp/)

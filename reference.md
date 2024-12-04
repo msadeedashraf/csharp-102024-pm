@@ -45,3 +45,9 @@ HashSet<T>: A collection of unique elements.
 [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
 [Collections](https://www.c-sharpcorner.com/UploadFile/736bf5/collection-in-C-Sharp/)
 [Collections](https://www.geeksforgeeks.org/collections-in-c-sharp/)
+
+
+### ENUM
+[ENUM](https://www.w3schools.com/cs/cs_enums.php)
+[ENUM](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)
+[ENUM](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/enums)

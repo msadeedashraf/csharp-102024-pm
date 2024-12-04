@@ -51,3 +51,7 @@ HashSet<T>: A collection of unique elements.
 [ENUM](https://www.w3schools.com/cs/cs_enums.php)
 [ENUM](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)
 [ENUM](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/enums)
+
+### Lambda expressions
+[Lambda expressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+[Lambda expressions](https://www.c-sharpcorner.com/UploadFile/bd6c67/lambda-expressions-in-C-Sharp/)

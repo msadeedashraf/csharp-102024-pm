@@ -55,3 +55,6 @@ HashSet<T>: A collection of unique elements.
 ### Lambda expressions
 [Lambda expressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
 [Lambda expressions](https://www.c-sharpcorner.com/UploadFile/bd6c67/lambda-expressions-in-C-Sharp/)
+
+### LINQ
+[LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/write-linq-queries)

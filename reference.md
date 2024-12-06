@@ -58,3 +58,5 @@ HashSet<T>: A collection of unique elements.
 
 ### LINQ
 [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/write-linq-queries)
+
+[LINQ How to](https://learn.microsoft.com/en-us/dotnet/csharp/linq/how-to-query-files-and-directories)
